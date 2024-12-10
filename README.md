@@ -12,4 +12,4 @@ El objetivo de esta aplicación es permitirnos la gestión de nuestra cuenta ban
  - Compra con la tarjeta en establecimiento físico: la compra en punto físico no tiene ningún costo.
  - Compra con la tarjeta en página web: una compra con la tarjeta en la web tiene un costo de un seguro contra robos de 5 USD.
  - Retiro en cajero: el retiro en cajero tiene un costo de 1 USD.
-    - Todas estas acciones afectan el saldo global disminuyendo también el costo de la transacción.
+    - Todas estas acciones afectan el saldo global disminuyendo también el costo de la transacción.💻
